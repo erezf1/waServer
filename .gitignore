@@ -1,0 +1,21 @@
+# Ignore node modules and virtual environments
+node_modules/
+venv/
+sessions/
+.wwebjs_cache/
+oldcodes/
+__pycache__/
+# Ignore log files
+*.log
+*.json
+*.txt
+*.old
+main.py
+gps.py
+internalWs.py
+.env
+maipawaserver.py
+externalWS.py
+maipaserver.py
+
+# Add any other folders/files you don't want to track
